@@ -1,6 +1,7 @@
 # ProgrammingAssignment3
 
 # Codebook
+
 |Index|Variables|Class|Range|Description|
 |---|-------------------------------|-------|-------|---------------------------------|
 |1|subject|integer|[1, 30]|Identifies the human subject.|
