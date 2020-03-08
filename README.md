@@ -3,4 +3,4 @@
 # Codebook
 
 |hkagjskdfhg|jdashfkj|kjdshafk|jkahsdfjk|
-|---------------|--|-------|--------|
+|:--------------:|:--:|:------:|:-------:|
