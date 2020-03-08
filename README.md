@@ -3,7 +3,7 @@
 # Codebook
 
 |Index|Variables|Class|Range|Description|
-|:---:|:----------------------------:|:-------:|:------:|:---------------------------:|
+|:---:|:--------------------:|:-------:|:------:|:---------------------------:|
 |1|subject|integer|[1, 30]|Identifies the human subject.|
 |2|activity|factor|[1, 6]|Identifies the activity. Labels: WALKING, WALKING UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING|
 |3|time_body_acceleration_mean_X|numeric|[-1, 1]|Time domain, Average of means for body acceleration on X axis.|
